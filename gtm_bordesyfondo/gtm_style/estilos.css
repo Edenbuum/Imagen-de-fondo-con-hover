@@ -1,0 +1,27 @@
+body{
+    background-image:url("../gtm_images/background.jpg");
+}
+.container{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 377px;
+    width: 600px;
+    border-style: solid;
+    border-width: 4px ; 
+    border-color: #3E5F8A;
+    border-radius: 12px;
+    background-image: 600px 400px;
+    background-image:url("../gtm_images/vladimir.jpg");
+    background-position: center;
+}
+.container:hover{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 377px;
+    width: 600px;
+    background-position: center top;
+    background-image:url("../gtm_images/vladimir1.jpg");
+    
+}
